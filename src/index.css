@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+  --color-brand-bg: #FDFCFB;
+  --color-brand-text: #2D241E;
+  --color-brand-border: #EEEAE5;
+  --color-brand-meta: #A69D95;
+  --color-brand-muted: #635E59;
+  --color-brand-hover: #4A3F36;
+  --color-brand-image-bg: #F5F2EF;
+}
+
