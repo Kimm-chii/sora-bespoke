@@ -12,7 +12,7 @@ export const content: SiteContent = {
     headline: "Symbols of an Eternal Promise",
     subheadline: "Discover our collection of timeless and custom-designed rings, crafted for a lifetime of love.",
     cta: "Explore Collection",
-    image: "/images/hero-banner.jpg",
+    image: "/images/hero-banner.webp",
   },
   categories: [
     { id: "all", name: "All Rings" },
@@ -26,7 +26,7 @@ export const content: SiteContent = {
       name: "The Classic Solitaire",
       price: "$2,500",
       category: "engagement",
-      image: "/images/ring-1.jpg",
+      image: "/images/ring-1.webp",
       description: "Timeless 1ct diamond set in 18k yellow gold."
     },
     {
@@ -34,7 +34,7 @@ export const content: SiteContent = {
       name: "Eternity Band",
       price: "$1,800",
       category: "wedding",
-      image: "/images/ring-2.jpg",
+      image: "/images/ring-2.webp",
       description: "Seamless circle of pavé diamonds in platinum."
     },
     {
@@ -42,7 +42,7 @@ export const content: SiteContent = {
       name: "Vintage Halo",
       price: "$3,200",
       category: "engagement",
-      image: "/images/ring-3.jpg",
+      image: "/images/ring-3.webp",
       description: "Art deco inspired halo setting with milgrain detailing."
     },
     {
@@ -50,7 +50,7 @@ export const content: SiteContent = {
       name: "Minimalist Gold Band",
       price: "$850",
       category: "wedding",
-      image: "/images/ring-4.jpg",
+      image: "/images/ring-4.webp",
       description: "A simple, elegant 14k rose gold band with a brushed finish."
     },
     {
@@ -58,7 +58,7 @@ export const content: SiteContent = {
       name: "Custom Sapphire Ring",
       price: "Price upon request",
       category: "bespoke",
-      image: "/images/ring-5.jpg",
+      image: "/images/ring-5.webp",
       description: "A unique commission featuring a deep blue sapphire."
     },
     {
@@ -66,7 +66,7 @@ export const content: SiteContent = {
       name: "Three-Stone Diamond",
       price: "$4,100",
       category: "engagement",
-      image: "/images/ring-6.jpg",
+      image: "/images/ring-6.webp",
       description: "Representing past, present, and future."
     }
   ],

@@ -14,7 +14,7 @@ export function Features() {
             className="order-2 lg:order-1 relative"
           >
              <CustomImage 
-               src="/images/bespoke-process.jpg" 
+               src="/images/bespoke-process.webp" 
                alt="Bespoke jewelry crafting process" 
                className="w-full max-w-md mx-auto lg:max-w-none shadow-sm"
                aspectRatio="aspect-[4/5]"
